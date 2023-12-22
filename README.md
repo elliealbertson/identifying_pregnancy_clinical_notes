@@ -11,4 +11,4 @@ Key steps in this project:
 - Used the HuggingFace `transformers` module to fine-tune an existing large language model to the classification task
 - Evaluated model performance on a test set
 - Used the `gradio` module to develop an app to enable users to test use cases
-- Published the [fine-tuned model]([https://open.fda.gov/apis/drug/event/](https://huggingface.co/elliealbertson/identifying_pregnancy_clinical_notes) and [Gradio app](https://huggingface.co/spaces/elliealbertson/identifying_pregnancy_clinical_notes) on HuggingFace
+- Published the [fine-tuned model](https://huggingface.co/elliealbertson/identifying_pregnancy_clinical_notes) and [Gradio app](https://huggingface.co/spaces/elliealbertson/identifying_pregnancy_clinical_notes) on HuggingFace
