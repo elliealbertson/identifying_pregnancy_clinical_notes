@@ -1,8 +1,8 @@
 # Identifying Pregnancy in Clinical Notes
 
-Identifying medical conditions and events in clinical notes can add business value to hospitals and other organizations with clinical text data. Pregnancy is one example of a condition that can be identified.
+Identifying medical conditions in clinical notes can add business value to health care organizations. Pregnancy is one example of a condition that can be identified.
 
-This project used Python, the HuggingFace transformers library, and Gradio to fine-tune a large language model to identify pregnancy in clinical notes, and publish an app interface for testing use cases.
+This project used Python, the HuggingFace transformers library, and Gradio to fine-tune a large language model to identify pregnancy in clinical notes and publish an app interface.
 
 Key steps in this project:
 
