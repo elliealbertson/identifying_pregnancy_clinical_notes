@@ -9,6 +9,6 @@ Key steps in this project:
 - Used the `kaggle` API to download a publicly available dataset of clincial notes
 - Augmented the dataset with synthetic data, and used upsampling to address class imbalance
 - Used the HuggingFace `transformers` module to fine-tune an existing large language model to the classification task
-- Evaluated model performance on a test set
+- Used `sklearn` metrics to evaluate model performance on a test set
 - Used the `gradio` module to develop an app to enable testing of use cases
 - Published the [fine-tuned model](https://huggingface.co/elliealbertson/identifying_pregnancy_clinical_notes) and [Gradio app](https://huggingface.co/spaces/elliealbertson/identifying_pregnancy_clinical_notes) on HuggingFace
