@@ -2,7 +2,7 @@
 
 Identifying medical conditions in clinical notes can add business value to health care organizations. Pregnancy is one example of a condition that can be identified.
 
-This project used Python, the HuggingFace transformers library, and Gradio to fine-tune a large language model to identify pregnancy in clinical notes and publish an app interface.
+This project used the HuggingFace `transformers` library to fine-tune a large language model to identify pregnancy in clinical notes, and used Gradio to publish an app interface.
 
 Key steps in this project:
 
